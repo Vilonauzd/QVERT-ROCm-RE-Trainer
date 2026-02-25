@@ -20,7 +20,7 @@
 
 ## 📋 Overview
 
-**QVERT** is a production-ready, single-file GUI application that automates the entire LoRA fine-tuning pipeline for reverse engineering AI models. Built specifically for AMD ROCm GPUs, it eliminates all manual configuration and dependency management.
+**QVERT ROCm RE** is a production-ready, single-file GUI application that automates the entire LoRA fine-tuning pipeline for reverse engineering AI models. Built specifically for AMD ROCm GPUs, it eliminates all manual configuration and dependency management.
 
 ### Primary Use Case
 
